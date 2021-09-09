@@ -4,4 +4,4 @@ I 😍 OpenSource in general, Linux, Rust, distributed architectures and open ar
 
 At the time of writing, I am using Manjaro & Arch Linux, I am exploring Dfinity, Holochain, Flutter, ...
 
-I also have some projets under https://bitbucket.org/kurdy/
+I also have some projects under https://bitbucket.org/kurdy/
