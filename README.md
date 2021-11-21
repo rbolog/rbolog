@@ -2,6 +2,6 @@ Software architect and passionate (or vice versa). Seeking inspiration through l
 
 I 😍 OpenSource in general, Linux, Rust, distributed architectures and open architectures.
 
-At the time of writing, I am using Manjaro & Arch Linux, I am exploring Dfinity, Holochain, Flutter, ...
+At the time of writing, I am using Manjaro & Arch Linux, I am exploring Dfinity, Holochain, React, IPFS, ...
 
 I also have some projects under https://bitbucket.org/kurdy/
