@@ -1,4 +1,5 @@
-## I moved to [GitLab](https://gitlab.com/kurdy)
+| :memo:        | I moved to [GitLab](https://gitlab.com/kurdy)      |
+|---------------|:------------------------|
 
 Software architect and passionate (or vice versa). Seeking inspiration through learning and sharing knowledge. 
 
